@@ -1,8 +1,8 @@
-# Documentation pour YourNutri
+# Documentation pour la plateforme YourNutri
 
 ## Introduction
 
-Ce document fournit aux utilisateurs un emplacement central pour accéder à tous les tutoriels liés à la plateforme YourNutri.
+Ce document fournit aux utilisateurs un emplacement central pour accéder à tous les tutoriels liés à la plateforme YourNutri (https://www.yournutri.ch - https://app.yournutri.ch).
 
 Note : Certaines images peuvent différer légèrement de la version actuelle de la plateforme.
 
