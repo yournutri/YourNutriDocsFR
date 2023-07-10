@@ -86,7 +86,7 @@ https://scribehow.com/shared/Comment_ajouter_une_consultation_sur_YourNutrich__n
 
 https://scribehow.com/shared/Comment_creer_un_compte_en_tant_que_praticien_sur_YourNutrich__gJWjwTkyTWq7P0t19lzxow
 
-### Comme patient
+### Comme client
 
 https://scribehow.com/shared/Comment_creer_un_compte_en_tant_que_patient_sur_YourNutrich__JHu_55fQQsa9UwUwy1zCXQ
 
