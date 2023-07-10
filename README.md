@@ -80,7 +80,6 @@ Note : Certaines images peuvent différer légèrement de la version actuelle de
 - [Historique des versions](#historique-des-versions)
 
 ## Inscription
-https://scribehow.com/shared/Comment_ajouter_une_consultation_sur_YourNutrich__nwzTZJVeTkaFxtQZWhjK2Q
 
 ### Comme praticien
 
